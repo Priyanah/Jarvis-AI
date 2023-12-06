@@ -1,0 +1,21 @@
+
+Question : what is electron? 
+Answer : An electron is a subatomic particle with a negative electric charge. Electrons are found in atoms, and they are responsible for many of the chemical and physical properties of matter.
+Question : value? 
+Answer : The value of an electron is typically measured in electron volts (eV). One electron volt is the amount of energy an electron gains when it is accelerated through an electric potential difference of one volt.
+Question : what is value of electron? 
+Answer : The value of an electron is typically measured in electron volts (eV). One electron volt is the amount of energy an electron gains when it is accelerated through an electric potential difference of one volt.
+Question : what is power? 
+Answer : Power is the rate at which work is done or energy is converted. Power is measured in watts, and one watt is equal to one joule of work per second.
+Question : what is 2+2? 
+Answer : 4
+Question : what is 2+2*3-6 
+Answer : 4
+Question : can velocity be negative? 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, which means it has both magnitude and direction. The magnitude of velocity is the speed, and the direction is the direction of motion. Therefore, velocity can be negative if the direction of motion is reversed.
+Question : what is difference between india and pakistan 
+Answer : There is no one-size-fits-all answer to this question, as the difference between India and Pakistan depends on a variety of factors, including history, culture, geography, and politics.
+Question : hi jarvis 
+Answer : Hello, how can I help you?
+Question : who creted you? 
+Answer : I was created by a team of programmers.

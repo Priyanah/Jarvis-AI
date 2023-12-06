@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "open",
+      "patterns": ["open", "start", "launch", "visit"],
+      "responses": ["open"]
+    },
+    {
+        "tag": "send",
+        "patterns": ["whatsapp", "message send", "chat", "call"],
+        "responses": ["whatsapp"]
+      }, 
+      {
+        "tag": "hello",
+        "patterns": ["hello","hi","hey"],
+        "responses": ["Hello Sir.", "Hello Sir, Nice to meet you again.", "Hey, Whatsapp Sir??"]
+      },
+      {
+        "tag": "bye",
+        "patterns": ["Bye", "Goodbye","see you later","exit"],
+        "responses": ["Bye Sir.","Bye Sir, take care", "Bye Sir,i will be there for you again.","Bye Sir, see you later."]
+      },
+      {
+        "tag": "halchal",
+        "patterns": ["how are you.", "fine"],
+        "responses": ["I'm fine", "Fine!!"]
+      }
+  ]
+}
